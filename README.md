@@ -5,3 +5,6 @@ This is an example repository for the Git tutoial as published on https://www.w3
 This repository is built step by step in the tutorial.
 
 Now it includes steps in GitHub
+
+use "git add ..." to update what will be committed
+use "git restore ..." to discard changes in working directory
