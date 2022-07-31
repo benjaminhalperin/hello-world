@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 Now it includes steps in GitHub
 
-
+git add ..." to update what will be committed
